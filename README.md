@@ -37,8 +37,8 @@
 - [x] Iterables (Range, Set)
 - [x] Funções em Python
 - [x] List Comprehension
-- [ ] Módulos e Bibliotecas
-- [ ] Orientação a Objeto
+- [x] Módulos e Bibliotecas
+- [x] Orientação a Objeto
 - [ ] Pandas e NumPy
 - [ ] FastAPI
 - [ ] Machine Learning
