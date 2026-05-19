@@ -10,7 +10,7 @@
 - 🐍 Desenvolvedor Python em formação pela Hashtag Treinamentos
 - ⚙️ Foco em Backend: APIs REST com FastAPI
 - 🤖 Caminho traçado rumo à Inteligência Artificial
-- 📚 Estudo 2 horas por dia, todo dia — consistência é meu diferencial
+- 📚 Estudo no mínimo 2 horas por dia, todo dia — consistência é meu diferencial
 - 🎓 Técnico em Administração em andamento — visão de negócio + código
 
 ---
@@ -39,7 +39,7 @@
 - [x] List Comprehension
 - [x] Módulos e Bibliotecas
 - [x] Orientação a Objeto
-- [ ] Pandas e NumPy
+- [x] Pandas e NumPy
 - [ ] FastAPI
 - [ ] Machine Learning
 
