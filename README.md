@@ -1,6 +1,6 @@
-# Olá, sou Murilo (Niro) Santos 👋
+# Olá, sou Murilo (Niro) Santos
 
-### Desenvolvedor Backend Python em formação | FastAPI | APIs REST | Rumo à IA
+### Desenvolvedor Backend Python em formação | SQL | FastAPI | Rumo à IA
 
 ---
 
@@ -8,16 +8,18 @@
 
 💡 **Sobre mim:**
 - 🐍 Desenvolvedor Python em formação pela Hashtag Treinamentos
-- ⚙️ Foco em Backend: APIs REST com FastAPI
+- ⚙️ Foco em Backend: APIs REST com FastAPI e integração com SQL
 - 🤖 Caminho traçado rumo à Inteligência Artificial
-- 📚 Estudo no mínimo 2 horas por dia, todo dia — consistência é meu diferencial
-- 🎓 Técnico em Administração em andamento — visão de negócio + código
+- 📚 Estudo todos os dias — consistência é meu diferencial
+- 🎓 16 anos | 2º ano do Ensino Médio | Técnico em Administração em andamento
 
 ---
 
 🛠️ **Stack atual:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
@@ -25,9 +27,8 @@
 
 📚 **Em desenvolvimento:**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -37,18 +38,23 @@
 - [x] Iterables (Range, Set)
 - [x] Funções em Python
 - [x] List Comprehension
-- [x] Módulos e Bibliotecas
-- [x] Orientação a Objeto
-- [x] Pandas e NumPy
-- [ ] FastAPI
+- [x] Módulos, Bibliotecas e OOP
+- [x] Pandas e Análise de Dados
+- [x] Integração Python com SQL ✅
+- [ ] FastAPI avançado
 - [ ] Machine Learning
 
 ---
 
-📂 **Repositórios:**
-| Projeto | Descrição | Status |
-|---|---|---|
-| [estudos-python](https://github.com/niromurilo/estudos-python) | Exercícios do curso Python Impressionador | 🟢 Ativo |
+📂 **Projetos:**
+
+| Projeto | Descrição | Tecnologias | Status |
+|---|---|---|---|
+| [crud-python-sql](https://github.com/niromurilo/crud-python-sql) | Sistema CRUD com Python e SQL | Python, SQL | 🟢 Ativo |
+| [api-contatos-fastapi](https://github.com/niromurilo/api-contatos-fastapi) | API REST com FastAPI e CRUD completo | FastAPI, Python | 🟢 Ativo |
+| [estudos-python](https://github.com/niromurilo/estudos-python) | Exercícios e análises de dados reais | Python, Pandas | 🟢 Ativo |
+| [agenda-contatos-python](https://github.com/niromurilo/agenda-contatos-python) | Sistema de agenda com OOP e JSON | Python, OOP | 🟢 Ativo |
+| [gerador-senhas-python](https://github.com/niromurilo/gerador-senhas-python) | Gerador de senhas seguras | Python | 🟢 Ativo |
 
 ---
 
