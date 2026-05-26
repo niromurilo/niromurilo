@@ -11,7 +11,7 @@
 - ⚙️ Foco em Backend: APIs REST com FastAPI e integração com SQL
 - 🤖 Caminho traçado rumo à Inteligência Artificial
 - 📚 Estudo todos os dias — consistência é meu diferencial
-- 🎓 16 anos | 2º ano do Ensino Médio | Técnico em Administração em andamento
+- 🎓Estudante focado em desenvolvimento backend e construção prática de projetos.
 
 ---
 
