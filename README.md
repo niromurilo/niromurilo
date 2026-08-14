@@ -19,7 +19,13 @@ Em desenvolvimento: Machine Learning · Docker
 
 ---
 
-## Projetos
+## 🎯 Projeto em destaque
+
+**[Pascom Live Manager](https://github.com/niromurilo/pascom-live-manager)** — automação da preparação de transmissões de missa: busca a liturgia do dia, gera título, descrição e Lower Thirds para o OBS Studio, com interface gráfica e instalador para Windows. Em uso real por uma paróquia, da primeira versão até o instalador `.exe` publicado.
+
+`Python` `Tkinter` `Web Scraping` `OBS WebSocket` `Testes automatizados`
+
+## Projetos de estudos
 
 | Repositório | Descrição | Stack |
 |---|---|---|
