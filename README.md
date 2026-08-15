@@ -1,8 +1,8 @@
 # Murilo (Niro) Santos
 
-**Desenvolvedor Python em formação | Rumo à IA | Python · FastAPI · SQL · Git**
+**Desenvolvedor Python | Automação · Integração de Sistemas · Web Scraping · SQL**
 
-Buscando primeira oportunidade como Dev Backend Júnior ou Estagiário em tecnologia.
+Construindo experiência prática rumo a Engenharia de IA (LLMs, RAG, agentes) — buscando minha primeira oportunidade como Dev Backend Júnior ou Estagiário.
 
 ---
 
